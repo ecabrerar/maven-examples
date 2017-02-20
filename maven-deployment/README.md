@@ -1,5 +1,6 @@
 
 Packaging and Deploying a Maven Java Desktop Applications
+------
 
 This is a demo project that demonstrates the usage of the Apache Maven Assembly Plugin to create a build distribution.
 
