@@ -9,4 +9,4 @@ Usage:
 mvn clean package
 ```
 
-More information about the JavaFX Maven Plugin is available at https://github.com/javafx-maven-plugin/javafx-maven-plugin
+More information about the Apache Maven Assembly Plugin is available at https://maven.apache.org/plugins/maven-assembly-plugin/index.html
